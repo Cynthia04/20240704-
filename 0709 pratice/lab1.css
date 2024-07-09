@@ -1,0 +1,23 @@
+.teamA{
+    background-color: blue;
+    width: 200px;
+    height: 300px;
+    padding: 20PX;
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+.teamB{
+    background-color: red;
+    /* border-color: black; */
+    /* border-width: 3PX; */
+    /* border-style: solid; */
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+}
+.teamC{
+    border: solid;
+    border-width: 5px;
+    border-color: black;
+}
